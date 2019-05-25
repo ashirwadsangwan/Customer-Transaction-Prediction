@@ -17,5 +17,7 @@ The task is to predict the value of `target` column in the test set.
 
 #### File descriptions
 `train.csv` - the training set.
+
 `test.csv` - the test set. The test set contains some rows which are not included in scoring.
+
 `sample_submission.csv` - a sample submission file in the correct format.
