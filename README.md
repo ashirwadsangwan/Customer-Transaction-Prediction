@@ -1,6 +1,6 @@
 # Projects
 
-## [Santander Customer Transaction Prediction](github.com/ashirwadsangwan/Tabular-Data-Projects/Santander-Customer-Transaction-Prediction)
+## [Santander Customer Transaction Prediction](https://github.com/ashirwadsangwan/Tabular-Data-Projects/tree/master/Santander-Customer-Transaction-Prediction)
 Santander organized this competition at [Kaggle](kaggle.com) where more than 9k people participated and I received a rank of 953 which is in top 11%.
 
 ##### Problem Statement
