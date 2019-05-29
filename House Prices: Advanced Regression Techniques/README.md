@@ -2,6 +2,9 @@
 
 ![alt text](https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png)
 
+## Rank in the competition
+46 (Top 1%)
+
 ## Project Task
 It is your job to predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable.
 
