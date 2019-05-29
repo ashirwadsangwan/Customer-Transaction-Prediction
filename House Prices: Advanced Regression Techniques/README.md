@@ -1,4 +1,4 @@
-# Advanced Regression Techniques
+# [Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview/description)
 
 ![alt text](https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png)
 
@@ -106,5 +106,5 @@ Here's a brief version of what you'll find in the data description file.
 * SaleType: Type of sale
 * SaleCondition: Condition of sale
 
-[Competition link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview/description)
+
 
