@@ -3,7 +3,7 @@
 ![alt text](https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png)
 
 ## Project Task
-It is your job to predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable. 
+It is your job to predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable.
 
 ## Project Desccription
 Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
@@ -14,7 +14,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price. (Taking logs means that errors in predicting expensive houses and cheap houses will affect the result equally.)
 
 
-## [Data Description](https://www.kaggle.com/c/5407/download-all) 
+## [Data Description](https://www.kaggle.com/c/5407/download-all)
 
 #### File descriptions
 `train.csv` - the training set
@@ -69,7 +69,7 @@ Here's a brief version of what you'll find in the data description file.
 * CentralAir: Central air conditioning
 * Electrical: Electrical system
 * 1stFlrSF: First Floor square feet
-*2ndFlrSF: Second floor square feet
+* 2ndFlrSF: Second floor square feet
 * LowQualFinSF: Low quality finished square feet (all floors)
 * GrLivArea: Above grade (ground) living area square feet
 * BsmtFullBath: Basement full bathrooms
@@ -105,6 +105,3 @@ Here's a brief version of what you'll find in the data description file.
 * YrSold: Year Sold
 * SaleType: Type of sale
 * SaleCondition: Condition of sale
-
-
-
