@@ -14,7 +14,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price. (Taking logs means that errors in predicting expensive houses and cheap houses will affect the result equally.)
 
 
-## [Data](https://www.kaggle.com/c/5407/download-all) Description
+## [Data Description](https://www.kaggle.com/c/5407/download-all) 
 
 #### File descriptions
 `train.csv` - the training set
